@@ -1,12 +1,10 @@
-  hname: "Jiayi Ji"
+name: "Jiayi Ji"
 output_dir: "."
 navbar:
   title: Jiayi Ji
   right:
     - text: "About"
       href: about.html
-    - text: Software
-      href: software.html
     - text: Research
       href: research.html
     - text: Presentations

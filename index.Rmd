@@ -1,0 +1,11 @@
+---
+title: " "
+---
+
+
+```{r, echo = FALSE, out.width = "100%"}
+library(knitr)
+knitr::include_graphics("Mplot01.png")
+
+#I am a current Master's Student in Biostatistics at Columbia University, interested in clinical research and statistical genetics. 
+```
