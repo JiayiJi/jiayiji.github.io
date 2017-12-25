@@ -1,0 +1,24 @@
+  hname: "Jiayi Ji"
+output_dir: "."
+navbar:
+  title: Jiayi Ji
+  right:
+    - text: "About"
+      href: about.html
+    - text: Software
+      href: software.html
+    - text: Research
+      href: research.html
+    - text: Presentations
+      href: presentations.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<jj2876@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/JiayJi/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jijiayi/
+output:
+  html_document:
+    theme: paper
+    include:
+      after_body: footer.html
