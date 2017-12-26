@@ -1,20 +1,23 @@
-name: "Jiayi Ji"
-output_dir: "."
+name: Jiayi Ji
+output_dir: '.'
 navbar:
   title: Jiayi Ji
   right:
-    - text: Research
-      href: research.html
-    - text: Internship
-      href: internship.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<jj2876@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: https://github.com/JiayJi/
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/jijiayi/
+  - text: Research
+    href: research.html
+  - text: Internship
+    href: internship.html
+  - icon: fa-envelope fa-lg
+    href: mailto:<jj2876@cumc.columbia.edu>
+  - icon: fa-github fa-lg
+    href: https://github.com/JiayJi/
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/jijiayi/
 output:
   html_document:
     theme: readable
     include:
       after_body: footer.html
+    lib_dir: site_libs
+    self_contained: no
+

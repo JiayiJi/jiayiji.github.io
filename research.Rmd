@@ -19,7 +19,7 @@ Paper in progress.
 
 This work is mentored by Sasikiran Kandula and [Jeffrey Shaman](http://blogs.cuit.columbia.edu/jls106/) in the [Department of Environmental Health Sciences at Columbia University](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs).
 
-[Slide](https://github.com/JiayiJi/P9120-Final-Project-Slide/Final_Project_Slide.html)
+[Slide](https://jiayiji.github.io/P9120-Final-Project-Slide/Final_Project_Slide.html)
 
 1. Analyzed large datasets (~68 million) and explored machine learning methods in MySQL and R  to track real-time influenza incidence combining both diagnostic and virologic data.
 2. Compared and Contrasted different machine learning methods (Boosting, SVM, Random Forest...) using cross-validation.
