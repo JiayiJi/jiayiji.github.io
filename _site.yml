@@ -7,8 +7,6 @@ navbar:
       href: research.html
     - text: Internship
       href: internship.html
-    - text: Presentations
-      href: presentations.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg

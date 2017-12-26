@@ -5,18 +5,21 @@ title: ""
 ### Identifying melanoma prognostic biomarkers by integrating imaging data and genetic data
 
 
-I am conducting research with [Gen Li](https://sites.google.com/view/ligen) at the [Department of Biostatistics at Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics) 
+I am conducting research with [Gen Li](https://sites.google.com/view/ligen) at the [Department of Biostatistics at Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics), Yvonne Saenger and Robyn Gartrell from [Columbia University Medical Center](http://www.cumc.columbia.edu/).
 
 This project involved three major stages:
 
-1. Validation of previously identified breast cancer subtypes using an independent sample to integrate copy number and expression data. 
-
-2. Identification of Differentially Methylated Regions to reduce dimensionality of methylation data in our sample. 
-
-3. Identification of novel breast cancer subtypes by integrating copy number, gene expression, and methylation data using Ronglai Shen's integrative clustering algorithm ([iCluster](https://www.bioconductor.org/packages/release/bioc/html/iClusterPlus.html)). We supervised input by selecting copy number and methylation features highly associated with gene expression.
+1. Created interactive heat maps and adopted clustering analysis to explore hierarchical structure of melanoma gene expression data.
+2. Built predictive model on recurrence using logistic regression with lasso penalty, and validated it on two separate cohorts using cross-validation with bootstrapping.
+3.  Communicated results of analyses, modeling, and tests through data visualization, interactive apps, and writing in R Markdown.
 
 Paper in progress. 
 
-### Clustering of Nonsense Mutations in Cancer
+### Estimating Influenza Incidence from Diagnostic Codes
 
-[Jeffrey Shaman](http://blogs.cuit.columbia.edu/jls106/) in the [Department of Environmental Health Sciences at Columbia University](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs).
+This work is mentored by Sasikiran Kandula and [Jeffrey Shaman](http://blogs.cuit.columbia.edu/jls106/) in the [Department of Environmental Health Sciences at Columbia University](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs).
+
+
+1. Analyzed large datasets (~68 million) and explored machine learning methods in MySQL and R  to track real-time influenza incidence combining both diagnostic and virologic data.
+2. Compared and Contrasted different machine learning methods (Boosting, SVM, Random Forest...) using cross-validation.
+3. Created clear and compelling reports, visualizations, and interactive apps for collaborators in R Markdown.
