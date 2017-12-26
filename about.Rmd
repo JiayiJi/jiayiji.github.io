@@ -3,18 +3,21 @@ title: "About"
 ---
 
 
-```{r, echo = FALSE, out.width = "18%"}
-library(knitr)
-```
 
-I am currently pursuing my MS in Biostatistics at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/). I am conducting research with [Ronglai Shen](https://www.mskcc.org/profile/ronglai-shen) at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/) and [Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) in the [Department of Biostatistics at Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics) using multimodal genomic data from [The Cancer Genome Atlas](https://cancergenome.nih.gov/) to validate and refine breast cancer subtype classifications. I am also working on a research project to examine clustering patterns of nonsense mutations across multiple cancer tumor types through the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) at Columbia (see research page for more details). 
+<center><img src="./Photo/Personal.jpg" width="100%"></center>
 
-Prior to switching careers into statistics, I received a BA in Philosophy and Theater from the [University of Notre Dame](https://www.nd.edu/), then moved to New York and worked on the regulatory side of clinical research at Memorial Sloan Kettering Cancer Center for 3 years before starting graduate school. 
+<br>
+
+<br>
+
+
+I am currently pursuing my MS in Biostatistics at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/). I am conducting research with [Gen Li](https://sites.google.com/view/ligen) at the [Department of Biostatistics at Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics) and [Jeffrey Shaman](http://blogs.cuit.columbia.edu/jls106/) in the [Department of Environmental Health Sciences at Columbia University](https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs). 
+
+Prior to switching careers into statistics, I received a M.D in preventive medicine [Fudan University](http://www.fudan.edu.cn/en/), then moved to New York and worked on the regulatory side of clinical research at Memorial Sloan Kettering Cancer Center for 3 years before starting graduate school. 
 
 ###Resume
 My resume is available <a href="Downloads/2017-12-25_JIayi_CV.pdf">here</a>.
 
 ###Contact Information
-Jiayi Ji
 
 Email: jj2876@cumc.columbia.edu
