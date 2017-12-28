@@ -7,11 +7,11 @@ title: ""
 
 I am conducting research with [Gen Li](https://sites.google.com/view/ligen) at the [Department of Biostatistics at Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics), Yvonne Saenger and Robyn Gartrell from [Columbia University Medical Center](http://www.cumc.columbia.edu/).
 
-This project involved three major stages:
+My work involved:
 
-1. Created interactive heat maps and adopted clustering analysis to explore hierarchical structure of melanoma gene expression data.
-2. Built predictive model on recurrence using logistic regression with lasso penalty, and validated it on two separate cohorts using cross-validation with bootstrapping.
-3.  Communicated results of analyses, modeling, and tests through data visualization, interactive apps, and writing in R Markdown.
+1. Creating interactive heat maps and adopting clustering analysis to explore hierarchical structure of melanoma gene expression data.
+2. Building predictive model on recurrence using logistic regression with lasso penalty, and validated it on two separate cohorts using cross-validation with bootstrapping.
+3.  Communicating results of analyses, modeling, and tests through data visualization, interactive apps, and writing in R Markdown.
 
 Paper in progress. 
 
